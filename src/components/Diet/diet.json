@@ -1,0 +1,60 @@
+{
+    "diet": [
+        {
+            "day": "Monday",
+            "meals": {
+                "Breakfast": "Oatmeal with fruits",
+                "Lunch": "Grilled chicken salad",
+                "Dinner": "Baked salmon with vegetables"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "meals": {
+                "Breakfast": "Smoothie with spinach and banana",
+                "Lunch": "Quinoa bowl with chickpeas",
+                "Dinner": "Turkey stir-fry"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "meals": {
+                "Breakfast": "Greek yogurt with honey and nuts",
+                "Lunch": "Chicken wrap with veggies",
+                "Dinner": "Beef stew with potatoes"
+            }
+        },
+        {
+            "day": "Thursday",
+            "meals": {
+                "Breakfast": "Whole grain toast with avocado",
+                "Lunch": "Tuna salad sandwich",
+                "Dinner": "Chicken curry with rice"
+            }
+        },
+        {
+            "day": "Friday",
+            "meals": {
+                "Breakfast": "Fruit salad with nuts",
+                "Lunch": "Vegetable soup with bread",
+                "Dinner": "Grilled shrimp with quinoa"
+            }
+        },
+        {
+            "day": "Saturday",
+            "meals": {
+                "Breakfast": "Smoothie bowl with granola",
+                "Lunch": "Chicken and veggie stir-fry",
+                "Dinner": "Pasta with tomato sauce"
+            }
+        },
+        {
+            "day": "Sunday",
+            "meals": {
+                "Breakfast": "Pancakes with maple syrup",
+                "Lunch": "Salmon avocado salad",
+                "Dinner": "Stuffed bell peppers"
+            }
+        }
+    ]
+}
